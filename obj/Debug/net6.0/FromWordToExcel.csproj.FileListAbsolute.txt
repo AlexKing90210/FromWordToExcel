@@ -17,3 +17,4 @@ C:\Users\Пользователь\Desktop\Программирование C#\Д
 C:\Users\Пользователь\Desktop\Программирование C#\Домашние задания\Задание №3\FromWordToExcel\obj\Debug\net6.0\FromWordToExcel.pdb
 C:\Users\Пользователь\Desktop\Программирование C#\Домашние задания\Задание №3\FromWordToExcel\obj\Debug\net6.0\FromWordToExcel.genruntimeconfig.cache
 C:\Users\Пользователь\Desktop\Программирование C#\Домашние задания\Задание №3\FromWordToExcel\obj\Debug\net6.0\ref\FromWordToExcel.dll
+C:\Users\Пользователь\Desktop\Программирование C#\Домашние задания\Задание №3\FromWordToExcel\obj\Debug\net6.0\Interop.Microsoft.Vbe.Interop.Forms.dll
